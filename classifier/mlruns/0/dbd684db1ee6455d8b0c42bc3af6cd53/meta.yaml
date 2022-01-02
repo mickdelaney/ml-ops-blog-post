@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mickdelaney/develop/mickdelaney/ml-ops-blog-post/classifier/mlruns/0/dbd684db1ee6455d8b0c42bc3af6cd53/artifacts
+end_time: 1641156120694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dbd684db1ee6455d8b0c42bc3af6cd53
+run_uuid: dbd684db1ee6455d8b0c42bc3af6cd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641156059902
+status: 3
+tags: []
+user_id: mickdelaney
